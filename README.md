@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Casey Masamitsu!
-- 👀 I’m interested in ...
+- 👀 I’m interested in data analytics, finance, tech, project management, and dogs! Mostly dogs. 
 - 🌱 I’m currently learning how to tidy data and extract useful insights from it. 
 - 💞️ I’m looking to collaborate on using data for good.
 - 📫 You can find me on LinkedIn, Twitter, or via email at cjmasamitsu@gmail.com! 
