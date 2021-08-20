@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Casey Masamitsu!
-- 👀 I’m interested in data analytics, finance, tech, project management, and dogs! Mostly dogs. 
-- 🌱 I’m currently learning how to tidy data and extract useful insights from it. 
-- 💞️ I’m looking to collaborate on using data for good.
-- 📫 You can find me on LinkedIn, Twitter, or via email at cjmasamitsu@gmail.com! 
+<h1><center>👋 Hi there! My name is Casey Masamitsu.</center></h1>
+<h3>Welcome to my GitHub!</h3>
+<i>~ Please don't judge, I'm currently under construction! ~</i> 👨‍🎓 <br>
+<br>
+I am currently a MS candidate at Johns Hopkins University in their Data Analytics and Policy program. Take a look around my repositories to see what I have been up to while in in school. I am working towards a degree in Data Analytics and Policy in order to use data for social good. Let's connect! :eyes: <br>
+<br>By day, I am a technical project manager, licensed financial advisor, husband, New Yorker, and dog dad. <br>
+<br>
+But mostly, dog dad. Here's mine: <br>
+<br>
+
+📫 Get to know me on my website, LinkedIn, Twitter, Medium, or via email at cjmasamitsu@gmail.com.
 
 <!---
-cjmasamitsu/cjmasamitsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Casey Masamitsu's About Me Page
 --->
