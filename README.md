@@ -10,8 +10,6 @@ But mostly, I'm a dog dad -- Meet Hastings:
 <br>
 <img src="https://user-images.githubusercontent.com/77251084/130159758-cfa849b5-b6de-41ba-a4a2-05696ea0a248.png" height="300" width ="220">
 <br>
-📫 Get to know me further on my [website](https://cjmasamitsu.com/), [LinkedIn](https://linkedin.com/in/cjmasamitsu), [Twitter](https://twitter.com/cjmasamitsu), [Medium](https://medium.com/@cjmasamitsu), or via email at cjmasamitsu@gmail.com.
+📫 Get to know me further on my 
 
-<!---
-Casey Masamitsu's About Me Page
---->
+[website](www.cjmasamitsu.com), [LinkedIn](https://linkedin.com/in/cjmasamitsu), [Twitter](https://twitter.com/cjmasamitsu), [Medium](https://medium.com/@cjmasamitsu), or via email at cjmasamitsu@gmail.com.
