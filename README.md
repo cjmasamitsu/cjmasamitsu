@@ -6,7 +6,9 @@ Right now, I am pursuing my MS in Data Analytics and Policy from Johns Hopkins U
 <br>By day, I am a technical project manager, licensed financial advisor, husband, New Yorker, and dog dad. <br>
 <br>
 But mostly, dog dad. Here's mine: <br>
-![image](https://user-images.githubusercontent.com/77251084/130159685-edfebd8c-b572-40e4-b9c9-f542ed776e6d.png)
+
+![hastings](https://user-images.githubusercontent.com/77251084/130159758-cfa849b5-b6de-41ba-a4a2-05696ea0a248.png)
+
 <br>
 📫 Get to know me on my website, LinkedIn, Twitter, Medium, or via email at cjmasamitsu@gmail.com.
 
