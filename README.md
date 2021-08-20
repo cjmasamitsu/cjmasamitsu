@@ -1,6 +1,4 @@
 # :wave: Hi there! 
-## Welcome to my GitHub!
-
 ##### :man_student: _Please don't judge, I'm currently under construction!_ :man_student: <br>
 <br>
 My name is Casey Masamitsu. I live in New York City :cityscape: with my partner and my dog. I like extracting actionable insights from data, listening to music, playing games, and traveling the world. <br>
