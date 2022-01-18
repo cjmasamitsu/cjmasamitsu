@@ -1,9 +1,9 @@
 # :wave: Hi there! 
-My name is Casey Masamitsu. I live in New York City :cityscape: with my partner and my dog. I like extracting actionable insights from data, listening to music, playing games, and traveling the world. <br>
-<br>
-Currently, I'm a graduate student at Johns Hopkins University :school:, pursuing my MS in Data Analytics and Policy. As the amount of data available to us accumulates exponentially, I believe we have a responsibility to use it responsibly to make he world a better place. Take a look around my repositories to see what I have been up to while in in school. :eyes: <br>
-<br>By day, I am a Technical Project Manager and licensed Financial Advisor at a FinTech company offering digital banking solutions to not-for-profit credit unions. <br>
-<br>
+My name is Casey Masamitsu. These days, I’m living in New York City with my partner and our dog&#x1F415. When I’m not working as a technical project manager & financial advisor, I’m typically learning as much as I can about data analytics and policy at Johns Hopkins University. Otherwise, you can find me listening to music (<a href="https://open.spotify.com/playlist/3pnzymgHgFEbD18XfmxOKY?si=4bcb03b159e04418">here are my favorite songs from 2021</a>), playing games, eating too much&#x1F9C0, or traveling (albeit not as much lately).
+ <p>
+Currently I am finishing my graduate degree in data analytics and policy at Johns Hopkins University.&#x1F3EB Check out some of my work in my <a href="/portfolio">portfolio!</a><br>
+<br>In addition, I work full-time as a technical project manager and financial advisor&#x1F4C8 in FinTech. More specifically, I design and implement digital banking solutions for credit unions and other not-for-profit financial institutions.
+</p>
 But mostly, I'm a dog dad. :dog:<br>
 <br>Meet Hastings: 
 <br>
