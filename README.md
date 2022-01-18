@@ -1,6 +1,4 @@
 # :wave: Hi there! 
-##### :man_student: _Please don't judge, I'm currently under construction!_ :man_student: <br>
-<br>
 My name is Casey Masamitsu. I live in New York City :cityscape: with my partner and my dog. I like extracting actionable insights from data, listening to music, playing games, and traveling the world. <br>
 <br>
 Currently, I'm a graduate student at Johns Hopkins University :school:, pursuing my MS in Data Analytics and Policy. As the amount of data available to us accumulates exponentially, I believe we have a responsibility to use it responsibly to make he world a better place. Take a look around my repositories to see what I have been up to while in in school. :eyes: <br>
