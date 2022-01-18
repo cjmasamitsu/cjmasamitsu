@@ -6,8 +6,8 @@ Currently I am finishing my graduate degree in data analytics and policy at John
 <br>In addition, I work full-time as a technical project manager and financial advisor in FinTech.:chart_with_upwards_trend: More specifically, I design and implement digital banking solutions for credit unions and other not-for-profit financial institutions.<br>
 
 <br>But mostly, I'm a dog dad. :dog:<br>
-<br>Meet Hastings: 
+<br>Meet <a href="https://instagram.com/goodboyhastings" target="_blank">Hastings</a>: 
 <br>
-<img src="https://user-images.githubusercontent.com/77251084/130159758-cfa849b5-b6de-41ba-a4a2-05696ea0a248.png" height="300" width ="220">
+<a href="https://instagram.com/goodboyhastings" target="_blank"><img src="https://user-images.githubusercontent.com/77251084/130159758-cfa849b5-b6de-41ba-a4a2-05696ea0a248.png" height="300" width ="220"></a>
 
 📫 Anyway, thanks for dropping in! Connect with me on [LinkedIn](https://linkedin.com/in/cjmasamitsu), [Twitter](https://twitter.com/cjmasamitsu), [Medium](https://medium.com/@cjmasamitsu), or via email at cjmasamitsu@gmail.com.
